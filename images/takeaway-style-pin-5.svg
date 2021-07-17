@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="207.622" height="171.362" viewBox="0 0 207.622 171.362">
+  <defs>
+    <filter id="Ellipse_3" x="135.943" y="99.684" width="71.679" height="71.679" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_3-2" x="0" y="0" width="71.679" height="71.679" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-2"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="takeaway-style-pin-5" transform="translate(-575.537 -9572.525)">
+    <path id="Path_3544" data-name="Path 3544" d="M-2760.2,7802.992l165.908-25.8" transform="translate(8082.275 6037.585) rotate(45)" fill="none" stroke="red" stroke-width="1"/>
+    <g id="Group_369" data-name="Group 369" transform="translate(406.566 9232.521) rotate(45)">
+      <g transform="matrix(0.71, -0.71, 0.71, 0.71, 359.9, 120.94)" filter="url(#Ellipse_3)">
+        <circle id="Ellipse_3-3" data-name="Ellipse 3" cx="17.84" cy="17.84" r="17.84" transform="translate(153.94 111.68)" fill="#f31f21"/>
+      </g>
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="11.267" cy="11.267" r="11.267" transform="translate(560.04 81.723) rotate(-9.146)" fill="#b81719"/>
+    </g>
+    <g id="Group_368" data-name="Group 368" transform="translate(270.623 9132.838) rotate(45)">
+      <g transform="matrix(0.71, -0.71, 0.71, 0.71, 526.51, 95.3)" filter="url(#Ellipse_3-2)">
+        <circle id="Ellipse_3-4" data-name="Ellipse 3" cx="17.84" cy="17.84" r="17.84" transform="translate(18 12)" fill="#f31f21"/>
+      </g>
+      <circle id="Ellipse_4-2" data-name="Ellipse 4" cx="11.267" cy="11.267" r="11.267" transform="translate(560.04 81.723) rotate(-9.146)" fill="#b81719"/>
+    </g>
+  </g>
+</svg>

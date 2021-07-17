@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="203.916" height="237.312" viewBox="0 0 203.916 237.312">
+  <defs>
+    <filter id="Ellipse_3" x="63.871" y="150.854" width="86.458" height="86.458" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_3-2" x="0" y="52.814" width="86.458" height="86.458" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-2"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_3-3" x="117.458" y="0" width="86.458" height="86.458" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-3"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="takeaway-style-pin-3" transform="translate(-474.542 -7746.999)">
+    <path id="Path_3532" data-name="Path 3532" d="M-3599.691,7654.891l57.715-149.18-119.832,50.508" transform="translate(4181 279.535)" fill="none" stroke="red" stroke-width="1"/>
+    <g id="Group_328" data-name="Group 328" transform="translate(8.688 7844.025)">
+      <g transform="matrix(1, 0, 0, 1, 465.85, -97.03)" filter="url(#Ellipse_3)">
+        <circle id="Ellipse_3-4" data-name="Ellipse 3" cx="17.84" cy="17.84" r="17.84" transform="translate(81.87 188.08) rotate(-45)" fill="#f31f21"/>
+      </g>
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="11.267" cy="11.267" r="11.267" transform="translate(560.04 81.723) rotate(-9.146)" fill="#b81719"/>
+    </g>
+    <g id="Group_329" data-name="Group 329" transform="translate(-55.184 7745.986)">
+      <g transform="matrix(1, 0, 0, 1, 529.73, 1.01)" filter="url(#Ellipse_3-2)">
+        <circle id="Ellipse_3-5" data-name="Ellipse 3" cx="17.84" cy="17.84" r="17.84" transform="translate(18 90.04) rotate(-45)" fill="#f31f21"/>
+      </g>
+      <circle id="Ellipse_4-2" data-name="Ellipse 4" cx="11.267" cy="11.267" r="11.267" transform="translate(560.04 81.723) rotate(-9.146)" fill="#b81719"/>
+    </g>
+    <g id="Group_330" data-name="Group 330" transform="translate(61.816 7693.627)">
+      <g transform="matrix(1, 0, 0, 1, 412.73, 53.37)" filter="url(#Ellipse_3-3)">
+        <circle id="Ellipse_3-6" data-name="Ellipse 3" cx="17.84" cy="17.84" r="17.84" transform="translate(135.46 37.23) rotate(-45)" fill="#f31f21"/>
+      </g>
+      <circle id="Ellipse_4-3" data-name="Ellipse 4" cx="11.267" cy="11.267" r="11.267" transform="translate(560.184 81.955) rotate(-9.146)" fill="#b81719"/>
+    </g>
+  </g>
+</svg>

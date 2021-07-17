@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="206.458" height="174.771" viewBox="0 0 206.458 174.771">
+  <defs>
+    <filter id="Ellipse_3" x="0" y="0" width="86.458" height="86.458" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_3-2" x="120" y="88.313" width="86.458" height="86.458" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-2"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="takeaway-style-pin-1" transform="translate(-421.542 -5805.194)">
+    <path id="Path_3526" data-name="Path 3526" d="M-3528.594,7641.8l-118.937-90.344" transform="translate(4112 -1712)" fill="none" stroke="red" stroke-width="1"/>
+    <g id="Group_314" data-name="Group 314" transform="translate(-108.184 5751.367)">
+      <g transform="matrix(1, 0, 0, 1, 529.73, 53.83)" filter="url(#Ellipse_3)">
+        <circle id="Ellipse_3-3" data-name="Ellipse 3" cx="17.84" cy="17.84" r="17.84" transform="translate(18 37.23) rotate(-45)" fill="#f31f21"/>
+      </g>
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="11.267" cy="11.267" r="11.267" transform="translate(560.04 81.723) rotate(-9.146)" fill="#b81719"/>
+    </g>
+    <g id="Group_315" data-name="Group 315" transform="translate(11.816 5839.68)">
+      <g transform="matrix(1, 0, 0, 1, 409.73, -34.49)" filter="url(#Ellipse_3-2)">
+        <circle id="Ellipse_3-4" data-name="Ellipse 3" cx="17.84" cy="17.84" r="17.84" transform="translate(138 125.54) rotate(-45)" fill="#f31f21"/>
+      </g>
+      <circle id="Ellipse_4-2" data-name="Ellipse 4" cx="11.267" cy="11.267" r="11.267" transform="translate(560.04 81.723) rotate(-9.146)" fill="#b81719"/>
+    </g>
+  </g>
+</svg>

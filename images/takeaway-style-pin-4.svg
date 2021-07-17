@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="211.168" height="185.21" viewBox="0 0 211.168 185.21">
+  <defs>
+    <filter id="Ellipse_3" x="131.471" y="0" width="79.698" height="79.697" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_3-2" x="0" y="105.513" width="79.698" height="79.697" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-2"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="takeaway-style-pin-4" transform="translate(-1214.427 -9064.051)">
+    <path id="Path_3543" data-name="Path 3543" d="M-2760.2,7802.992l165.908-25.8" transform="translate(-255.426 1064.445) rotate(-30)" fill="none" stroke="red" stroke-width="1"/>
+    <g id="Group_367" data-name="Group 367" transform="translate(844.025 9305.52) rotate(-30)">
+      <g transform="matrix(0.87, 0.5, -0.5, 0.87, 441.51, -23.92)" filter="url(#Ellipse_3)">
+        <circle id="Ellipse_3-3" data-name="Ellipse 3" cx="17.84" cy="17.84" r="17.84" transform="matrix(0.26, -0.97, 0.97, 0.26, 149.47, 46.46)" fill="#f31f21"/>
+      </g>
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="11.267" cy="11.267" r="11.267" transform="translate(560.04 81.723) rotate(-9.146)" fill="#b81719"/>
+    </g>
+    <g id="Group_364" data-name="Group 364" transform="translate(712.555 9411.032) rotate(-30)">
+      <g transform="matrix(0.87, 0.5, -0.5, 0.87, 608.13, -49.56)" filter="url(#Ellipse_3-2)">
+        <circle id="Ellipse_3-4" data-name="Ellipse 3" cx="17.84" cy="17.84" r="17.84" transform="matrix(0.26, -0.97, 0.97, 0.26, 18, 151.98)" fill="#f31f21"/>
+      </g>
+      <circle id="Ellipse_4-2" data-name="Ellipse 4" cx="11.267" cy="11.267" r="11.267" transform="translate(560.04 81.723) rotate(-9.146)" fill="#b81719"/>
+    </g>
+  </g>
+</svg>
